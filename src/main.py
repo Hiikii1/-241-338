@@ -3,12 +3,12 @@ from telebot import types
 import time
 import os
 import google.generativeai as genai
-import requests # Оставим, может пригодиться для чего-то другого в будущем
+import requests 
 import json
 
 # --- Настройка ---
-BOT_TOKEN = "7578503522:AAGFv9xDSz6GzlyPcn7L2dUu2H6R3s55YVM" # Ваш токен
-GEMINI_API_KEY = "AIzaSyBbG1xlWQyz8VTv3wV7_7Od3YzatnwRWmA" # Ваш Gemini ключ
+BOT_TOKEN = "..."
+GEMINI_API_KEY = "..."
 # Yandex API ключ больше не используется
 # YANDEX_API_KEY = "YOUR_YANDEX_ROUTING_API_KEY"
 
