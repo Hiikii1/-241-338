@@ -9,8 +9,6 @@ import json
 # --- Настройка ---
 BOT_TOKEN = "..."
 GEMINI_API_KEY = "..."
-# Yandex API ключ больше не используется
-# YANDEX_API_KEY = "YOUR_YANDEX_ROUTING_API_KEY"
 
 # Конфигурируем Google AI SDK
 gemini_configured = False
